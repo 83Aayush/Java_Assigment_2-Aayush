@@ -52,6 +52,3 @@ Handles user input and displays the menu:
    ```bash
    javac CalculatorApp.java
 
-
-
-## 🖥️ Sample Program Output
